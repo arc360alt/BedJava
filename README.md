@@ -16,5 +16,8 @@ You can edit a lot of stuff in the configs if you want to.
 ## Screenshots:
 
 ![image](https://github.com/arc360alt/BedJava/assets/155182753/5a346d32-f327-4b14-81d6-56c7272bbd4f)
+### Create World Menu That looks like the new bedrock one
 ![image](https://github.com/arc360alt/BedJava/assets/155182753/0c2f7636-6802-41ee-bb41-e7c920dc02c8)
+### Items get bigger when selected (bedrock feture)
 ![image](https://github.com/arc360alt/BedJava/assets/155182753/4e4c9a6e-dd01-4f24-b67a-bcddf77929f6)
+### Main menu that *kind of* looks like minecraft bedrock's

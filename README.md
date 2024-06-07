@@ -14,7 +14,7 @@ Theres about 16 mods in here that turn minecraft java into a minecraft bedrock l
 You can edit a lot of stuff in the configs if you want to.
 
 ## how to fix some common issues:
-- If the main menu screem looks wierd, press CTRL + ALT + C wich will make a topbar appear. then in that topbar press currrent menu, then press the costomsation wich should be on, click it, then it will be turned off, then the menu should look normal again. to hide the topbar. do CTRL + ALT + C again.
+- If the main menu screem looks wierd, press CTRL + ALT + C wich will make a topbar appear. then in that topbar press currrent menu, then press the costomsation option wich should be on, click it, then it will be turned off, then the menu should look normal again. to hide the topbar. do CTRL + ALT + C again.
 - Make shure to check your video setting before making a new world. becuase its still stuck at 32 chunks and fancy graphics from when i was testing it.
 - If you have any other issues. post them in the issues tab
 

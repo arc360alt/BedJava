@@ -26,3 +26,5 @@ You can edit a lot of stuff in the configs if you want to.
 ### Items get bigger when selected (bedrock feture)
 ![image](https://github.com/arc360alt/BedJava/assets/155182753/4e4c9a6e-dd01-4f24-b67a-bcddf77929f6)
 ### Main menu that *kind of* looks like minecraft bedrock's
+#
+## this is a backup to my modrinth page just in case that dosnt get through review

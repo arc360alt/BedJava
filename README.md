@@ -1,3 +1,7 @@
+# https://modrinth.com/modpack/bedjava THIS IS DEPRECATED, GO TO MODRINTH
+
+
+
 ![bedjava](https://cdn.modrinth.com/data/cached_images/19776948c984f562c83fcddd40ac2b12ee4a4b4a.png)
 
 ## A Modpack that turns minecraft java into minecraft bedrock
